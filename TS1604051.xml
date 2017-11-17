@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TX>
+    <TX_HEADER>
+        <TRADE_CODE><![CDATA[TS1604051]]></TRADE_CODE>
+        <CLIENT_VERSION><![CDATA[ccb_client_version]]></CLIENT_VERSION>
+        <CLIENT_IP><![CDATA[ccb_client_ip]]></CLIENT_IP>
+        <NETWORK_CARD_MAC><![CDATA[AC-81-12-24-2C-5F]]></NETWORK_CARD_MAC>
+    </TX_HEADER>
+    <TX_BODY>
+        <ENTRY>
+            <AUTH_TYPE><![CDATA[15]]></AUTH_TYPE>
+            <LOGIN_NAME><![CDATA[lvqingming.vu]]></LOGIN_NAME>
+            <SEC_VOUCHER><![CDATA[Ti/2ZgUaweSfu3PiuOyV9Q==]]></SEC_VOUCHER>
+            <IS_CREATE_TICKET><![CDATA[true]]></IS_CREATE_TICKET>
+            <IS_GET_LOGINED_APP><![CDATA[true]]></IS_GET_LOGINED_APP>
+            <SERVICE_POINT><![CDATA[010200300]]></SERVICE_POINT>
+        </ENTRY>
+    </TX_BODY>
+</TX>
