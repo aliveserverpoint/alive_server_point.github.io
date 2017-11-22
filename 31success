@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TX>
+	<TX_HEADER>
+		<TRADE_CODE><![CDATA[TS1609030]]></TRADE_CODE>
+		<CLIENT_VERSION><![CDATA[1.3.2]]></CLIENT_VERSION>
+		<CLIENT_IP><![CDATA[128.64.173.7]]></CLIENT_IP>
+		<NETWORK_CARD_MAC><![CDATA[AC-81-12-24-2C-5F]]></NETWORK_CARD_MAC>
+	</TX_HEADER>
+	<TX_BODY>
+			<TERMINAL_INFO>
+<![CDATA[
+				{
+"HOSTNAME":"test.hostname",
+"OPERATING_SYSTEM":"android 7",
+"MODELS":"Moto X Style",
+"DESCRIBE":"test",
+"ACCESS_ORG_CODE":"010200300",
+"USER_NAME":"monitor.zh",
+"ONLINE_STATUS":"2"
+}
+]]>
+</ TERMINAL_INFO >
+			<ACTIVITY>
+<![CDATA[
+[
+{
+	"ACT_NAME":"用户登录",
+	"ACT_DESC":"chh2.vu用户登录系统",
+	"ACT_DATE":"2016-09-10 08:08:08",
+},
+{
+	"ACT_NAME":"下载任务",
+	"ACT_DESC":"下载任务列表:task001,task002",
+	"ACT_DATE":"2016-09-10 18:08:08",
+}
+]
+]]>
+</ACTIVITY>
+	</TX_BODY>
+</TX>
